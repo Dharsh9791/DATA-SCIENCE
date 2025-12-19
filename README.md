@@ -24,9 +24,4 @@ users to filter the entire dashboard by the company’s age.
 per Industry, utilizing the Total Workers column created in Phase 1. 
 Phase 3: Reporting 
 Task: Finalize the project by exporting the completed Power BI dashboard as a PDF file for 
-stakeholder review. 
-Deliverables - Github: 
-• Python script (.py) 
-• The processed dataset (NewCompany2.csv) 
-• The Power BI report file (.pbix) 
-• The exported PDF dashboard.# DATA-SCIENCE
+stakeholder review.
